@@ -40,6 +40,8 @@ jobs:
       - name: Build APK (Debug)
         run: |
           cd android
+          # Fix CRLF issues if the repo was pushed from Windows
+          sed -i 's/\r$//' gradlew
           chmod +x gradlew
           ./gradlew assembleDebug
 
