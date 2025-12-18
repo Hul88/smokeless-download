@@ -1,0 +1,22 @@
+# Smokeless Changelog
+
+## v1.2.0 - Health & Wellness Update
+- [NEW] Health Recovery Timeline: Visualizes physical improvements (Blood Pressure, Oxygen, etc.) based on time smoke-free.
+- [NEW] Breathing Exercise: Built-in calming tool to help surf cravings (4-7-8 breathing).
+- [IMPROVED] Stats engine refined for more accurate milestone tracking.
+
+## v1.1.0 - The Statistics Update
+- [NEW] Weekly Bar Chart: Visual graph of the last 7 days of consumption.
+- [NEW] Smoke-Free Timer: Shows exact duration since last cigarette on the home screen.
+- [NEW] Financial Insights:
+  - "Money Saved" calculator (based on user-defined baseline).
+  - "Projected Yearly Cost" estimation.
+- [NEW] Settings: Added "Baseline Cigs/Day" for savings calculations.
+- [FIX] Migrated legacy data format to new robust history system.
+
+## v1.0.0 - Initial Release
+- [NEW] Daily Tracking: Track cigarettes smoked and money spent.
+- [NEW] Dynamic "Willpower" Button: Main button physically shrinks as streak increases.
+- [NEW] Theme Support: System, Light, and Dark modes.
+- [NEW] Privacy-Focused: 100% Offline (LocalStorage).
+- [NEW] Mental Reinforcement: Random motivational quotes and Streak Reset "Disappointment" popups.

@@ -1,0 +1,6 @@
+{
+    "appId": "com.huldev.smokeless",
+    "appName": "Smokeless",
+    "webDir": "www",
+    "bundledWebRuntime": false
+}

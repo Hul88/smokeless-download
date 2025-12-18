@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Smokeless</string>
+    <string name="title_activity_main">Smokeless</string>
+    <string name="package_name">com.antigravity.smokeless</string>
+    <string name="custom_url_scheme">com.antigravity.smokeless</string>
+</resources>

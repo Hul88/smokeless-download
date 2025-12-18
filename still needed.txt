@@ -1,0 +1,13 @@
+2. Money Saved
+
+(Counterpart to Total Spent)
+
+Example: €4.95 saved
+
+Calculated from:
+
+Baseline daily smoking × price
+
+Psychologically stronger than “spent” alone
+
+You already have most of this logic
